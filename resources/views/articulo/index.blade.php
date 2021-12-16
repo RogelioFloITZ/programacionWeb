@@ -2,6 +2,8 @@
 
 @section('title', 'Index')
 
+@section('pluggins.')
+
 @section('content_header')
     <h1>Nuevo articulo</h1>
 @stop
